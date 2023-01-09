@@ -11,7 +11,7 @@ export default function Transfer() {
     <Page title="Dashboard: Download">
       <Container maxWidth="xl">
         <Typography variant="h4" sx={{ mb: 5 }}>
-          Download Ambi
+          Download Ambify
         </Typography>
         <Stack
           direction="column"
