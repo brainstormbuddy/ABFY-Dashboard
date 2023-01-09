@@ -56,7 +56,7 @@ export default function Buy() {
               InputProps={{
                 inputMode: 'numeric',
                 pattern: '[0-9]*',
-                endAdornment: <InputAdornment position="end">ABFY</InputAdornment>,
+                endAdornment: <InputAdornment position="end">AB</InputAdornment>,
               }}
             />
             <Stack direction="column" alignItems="center">
