@@ -25,7 +25,7 @@ export default function Page404() {
       <Container>
         <ContentStyle sx={{ textAlign: 'center', alignItems: 'center' }}>
           <Typography variant="h3" paragraph>
-            Sorry,  not found!
+            Sorry, Page not found!
           </Typography>
 
           <Typography sx={{ color: 'text.secondary' }}>
