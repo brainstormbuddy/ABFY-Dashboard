@@ -140,7 +140,7 @@ export default function User() {
             User
           </Typography>
           <Button variant="contained" component={RouterLink} to="#" startIcon={<Iconify icon="eva:plus-fill" />}>
-            New User
+            New Use
           </Button>
         </Stack>
 
